@@ -1,5 +1,5 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![FMOD](https://img.shields.io/badge/-fmod-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-# 3D-Game-Engine
+# 3D Game Engine
 A basic 3D game engine developed with C++ and DirectX.
 
 <br />
