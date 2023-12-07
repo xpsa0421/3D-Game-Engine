@@ -5,12 +5,14 @@ A basic 3D game engine developed with C++ and DirectX.
 <br />
 
 ### Features
-* 3D camera movement
+* 3D camera with view frustum
+* Minimap
 * Basic 3D object rendering
 * 3D object transformations
-* FBX 3D object rendering
+* FBX 3D object rendering with animations
 * Diffuse lighting + wireframe
-* 3D math
+* Quadtree map division
+* 3D math helper functions
 
 <br />
 
